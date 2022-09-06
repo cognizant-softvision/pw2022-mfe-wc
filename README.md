@@ -6,4 +6,4 @@ This repo hosts submodules with separate repositories for each MFE. To initializ
 
 ```git submodule update --init```
 
-After that, go into each submodule directory and `npm i` & `npm start as you would proceed with single project repositories.
+After that, go into each submodule directory and `npm i` & `npm start` as you would proceed with single project repositories.
