@@ -18,12 +18,23 @@ A pdf version of the presentation is available [here](https://github.com/cogniza
 
 Some resources used as source for the talk and building the app.
 
-TODO: add resources to repo
+On micro-frontends and architechture:  
+https://micro-frontends.org/  
+https://martinfowler.com/articles/micro-frontends.html  
 
-on micro-frontends and architechture
+Module Federation:  
+[Webpack Module Federation](https://webpack.js.org/concepts/module-federation/) - oficial documentation    
+[Module Federation examples](https://github.com/module-federation/module-federation-examples)  
+[Module Federation + Singla Spa - Jack Herrington](https://www.youtube.com/watch?v=wxnwPLLIJCY)  
+[Micro-frontend course (2hs) - Jack Herrington](https://www.youtube.com/watch?v=lKKsjpH09dU)  
+[Zack Jackson's (MF creator) playlist](https://www.youtube.com/playlist?list=PLWSiF9YHHK-DqsFHGYbeAMwbd9xcZbEWJ)
 
-jack herrington videos
+Web components documentation:  
+[Web Components - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)  
+[Custom Elements Specs](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements)
+[Using Sadow DOM - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)  
+https://www.webcomponents.org/
 
-web components documentation
-
+Other:  
+[Import Maps - digital ocean](https://www.digitalocean.com/community/tutorials/how-to-dynamically-import-javascript-with-import-maps)  
 
