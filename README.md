@@ -11,7 +11,7 @@ After that, go into each submodule directory and `npm i` & `npm start` as you wo
 
 ## Presentation
 
-A pdf version of the presentation is available on [this repo]().
+A pdf version of the presentation is available [here](https://github.com/cognizant-softvision/pw2022-mfe-wc/blob/main/pw2022-mfe-presentation.pdf)
 
 
 ## Additional resources
