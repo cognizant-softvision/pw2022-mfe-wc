@@ -1,12 +1,16 @@
 [submodule "pw2022-mfe-host-"]
 	path = pw2022-mfe-host-
 	url = git@github.com:cognizant-softvision/pw2022-mfe-host-.git
+	update = merge
 [submodule "pwc2022-mfe-topbar"]
 	path = pwc2022-mfe-topbar
 	url = git@github.com:cognizant-softvision/pwc2022-mfe-topbar.git
+	update = merge
 [submodule "pw2022-mfe-wc-system"]
 	path = pw2022-mfe-wc-system
 	url = git@github.com:cognizant-softvision/pw2022-mfe-wc-system.git
+	update = merge
 [submodule "pw2022-mfe-wc-demo"]
 	path = pw2022-mfe-wc-demo
 	url = git@github.com:cognizant-softvision/pw2022-mfe-wc-demo.git
+	update = merge
