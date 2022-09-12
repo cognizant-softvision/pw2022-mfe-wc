@@ -1,4 +1,4 @@
-# Programmers' Week 20200  <br> Micro-frontends with Webpack module federation and web components
+# Programmers' Week 2022  <br> Micro-frontends with Webpack module federation and web components
 
 ## Starting
 
