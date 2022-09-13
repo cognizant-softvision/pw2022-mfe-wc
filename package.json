@@ -2,6 +2,6 @@
   "name": "mfe-wc",
   "version": "0.1.0",
   "scripts": {
-    "init":"git submodule update --init && git submodule foreach --recursive git checkout main"
+    "init":"git submodule update --init && git submodule foreach --recursive git checkout main && git submodule foreach npm i"
   }
 }
