@@ -23,6 +23,10 @@ After that, go into each submodule directory and `npm i` & `npm start` as you wo
 
 A pdf version of the presentation is available [here](https://github.com/cognizant-softvision/pw2022-mfe-wc/blob/main/pw2022-mfe-presentation.pdf)
 
+## Running the app
+
+For that, you have to go to each app (or the desired ones) and do `npm start`
+
 
 ## Additional resources
 
