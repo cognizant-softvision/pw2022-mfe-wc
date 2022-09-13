@@ -19,14 +19,13 @@ If you want your submodules branches to be undetached, you could do:
 
 After that, go into each submodule directory and `npm i` & `npm start` as you would proceed with single project repositories.
 
+## Running the app
+
+For that, you have to go to each app (or the desired ones) and do `npm start`. On host app notice the **.env** file where you can decide which apps to fetch locally.
+
 ## Presentation
 
 A pdf version of the presentation is available [here](https://github.com/cognizant-softvision/pw2022-mfe-wc/blob/main/pw2022-mfe-presentation.pdf)
-
-## Running the app
-
-For that, you have to go to each app (or the desired ones) and do `npm start`
-
 
 ## Additional resources
 
