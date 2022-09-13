@@ -4,9 +4,15 @@
 
 This repo hosts submodules with separate repositories for each MFE. To initialize and pull everything correctly, run:
 
-```git submodule update --init```
+```git submodule update --init```  
+
+If you want your submodules branches to be undetached, you could do:
+
+```git submodule foreach --recursive git checkout main```
 
 After that, go into each submodule directory and `npm i` & `npm start` as you would proceed with single project repositories.
+
+Or run this all alogin with ```npm run init```
 
 
 ## Presentation
